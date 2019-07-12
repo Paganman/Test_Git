@@ -1,9 +1,13 @@
-<?php
-namespace App\Http\Controllers;
-use Illuminate\Foundation\Bus\DispatchesJobs;
-use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
 
-class Controller extends BaseController
-{
-    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
-}
+<h1>This is a heading</h1>
+<p>This is a baby.</p>
+
+<h1>This is a heading2</h1>
+<p>This is a baby2.</p>
+
+</body>
+</html>
